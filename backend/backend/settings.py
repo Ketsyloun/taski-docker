@@ -10,8 +10,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['89.169.170.172', '127.0.0.1', 'localhost', 'notes.hopto.org']
 
-
-
 # Application definition
 
 INSTALLED_APPS = [
